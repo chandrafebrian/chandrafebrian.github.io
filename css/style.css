@@ -71,6 +71,20 @@ section {
     color: rgb(212, 145, 209);
 }
 
+
+.ucapanterimakasih {
+    min-height: max-content;
+    background-color: rgb(125, 189, 248);
+    font-family: fantasy;
+    /* font-size: medium; */
+    color: white;
+}
+
+
+
+
+
+
 .portfolio .thumbnail {
     opacity: 0;
     transform: translate(0, -40px);
@@ -189,9 +203,9 @@ footer {
     position: absolute;
     bottom: 0;
     width: 100%;
-    height: 100px;
+    height: 120px;
     background-color: rgb(21, 121, 235);
-    padding-top: 30px;
+    padding-top: 50px;
     font-style: italic;
 }
 
