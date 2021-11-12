@@ -9,7 +9,8 @@ body {
 
 .jumbotron {
 
-    background-image: url('../img/macbook.jpg');
+    background-image: url('../img/background-merid.jpg');
+
     background-attachment: fixed;
     background-size: cover;
     background-position: 0 -255px;
@@ -32,7 +33,7 @@ body {
 
 hr {
     width: 250px;
-    border-top: 3px solid #999;
+    border-top: 3px solid rgb(247, 222, 238);
 }
 
 section {
@@ -59,25 +60,28 @@ section {
 }
 
 .portfolio {
-    background-color: rgb(200, 220, 221);
+    background-color: rgb(247, 222, 238);
 }
 
 .amplopdigital {
-    background-image: url('../img/chandra.jpg');
-    position: relative;
+    background-image: url('../img/background-merid.jpg');
+    background-size: cover;
+    background-attachment: fixed;
     /* background-color: rgb(245, 77, 194); */
     /* font-size: 1em; */
     font-style: italic;
-    color: rgb(212, 145, 209);
+    color: rgb(245, 69, 192);
 }
 
 
 .ucapanterimakasih {
     min-height: max-content;
-    background-color: rgb(125, 189, 248);
+    background-image: url('../img/background-merid.jpg');
+    background-attachment: fixed;
+    background-size: cover;
     font-family: fantasy;
     /* font-size: medium; */
-    color: white;
+    color: rgb(245, 69, 192);
 }
 
 
@@ -204,12 +208,12 @@ footer {
     bottom: 0;
     width: 100%;
     height: 120px;
-    background-color: rgb(21, 121, 235);
+    background-color: rgb(247, 222, 238);
     padding-top: 50px;
     font-style: italic;
 }
 
 footer p {
-    color: rgb(255, 255, 255);
+    color: rgb(247, 128, 183);
     font-size: 1em;
 }
