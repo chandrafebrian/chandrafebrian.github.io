@@ -218,3 +218,9 @@ footer p {
     color: rgb(247, 128, 183);
     font-size: 1em;
 }
+
+
+@font-face {
+    font-family: 'LovelyHome';
+    src: url(fonts\LovelyHome-9aBZ.ttf);
+}
