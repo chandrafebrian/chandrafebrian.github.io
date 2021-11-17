@@ -31,6 +31,10 @@ body {
     text-shadow: 0.5px 0.5px 5px rgba(0, 0, 0, 5);
 }
 
+.jumbotron p {
+    font-size: x-large;
+}
+
 hr {
     width: 250px;
     border-top: 3px solid rgb(247, 222, 238);
@@ -46,6 +50,7 @@ section {
     transform: translate(-50px, 0);
     transition: 2s;
     font-style: oblique;
+    font-size: large;
 }
 
 .pKanan {
@@ -71,6 +76,7 @@ section {
     /* background-color: rgb(245, 77, 194); */
     /* font-size: 1em; */
     font-style: italic;
+    font-family: 'Handlee', cursive;
     color: rgb(245, 69, 192);
 }
 
@@ -80,7 +86,7 @@ section {
     background-image: url('../img/background-merid.jpg');
     background-attachment: fixed;
     background-size: cover;
-    font-family: fantasy;
+    font-family: 'handlee', cursive;
     /* font-size: medium; */
     color: rgb(245, 69, 192);
 }
@@ -217,10 +223,4 @@ footer {
 footer p {
     color: rgb(151, 144, 144);
     font-size: 1em;
-}
-
-
-@font-face {
-    font-family: 'LovelyHome', sans-serif;
-    src: url(fonts\LovelyHome-9aBZ.ttf);
 }
