@@ -70,7 +70,7 @@ section {
 }
 
 .amplopdigital {
-    background-image: url('../img/background-merid.jpg');
+    /* background-image: url('../img/background-merid.jpg'); */
     background-size: cover;
     background-attachment: fixed;
     /* background-color: rgb(245, 77, 194); */
@@ -83,7 +83,7 @@ section {
 
 .ucapanterimakasih {
     min-height: max-content;
-    background-image: url('../img/background-merid.jpg');
+    /* background-image: url('../img/background-merid.jpg'); */
     background-attachment: fixed;
     background-size: cover;
     font-family: 'handlee', cursive;
